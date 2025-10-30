@@ -1,3 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Midterm_Samin_Qureshi</string>
+    <string name="app_name">Times Table</string>
+    <string name="title_main">Multiplication Table</string>
+    <string name="hint_enter_number">Enter a number</string>
+    <string name="button_generate">Generate Table</string>
+    <string name="label_multiplication_table">Multiplication Results</string>
+    <string name="history_title">History</string>
+    <string name="description_history">Numbers for which tables have been generated:</string>
+    <string name="menu_history">History</string>
+    <string name="menu_clear_all">Clear All</string>
 </resources>
